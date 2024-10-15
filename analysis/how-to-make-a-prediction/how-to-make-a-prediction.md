@@ -20,6 +20,6 @@ Problems that we could use to apply the steps to make a prediction:
 - Common problems that people need to solve frequently
 - Next elected president
 
-Nested predictions
+**Nested predictions**
 
 This concept could be useful if we need to continue making new predictions after the first prediction approached failed. It means that if we did all the steps, mentioned at the top of this document, and eventually it failed, then we could use it as a trigger to fire new predictions, taking as input, the data collected to make the first and original prediction, plus new data and/or variables we could add too. In this way, we could make as many nested predictions as possible until we get the right prediction or the most convenient prediction.
