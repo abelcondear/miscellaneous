@@ -16,4 +16,6 @@ And you need to improve the company servers performance, you should do the follo
 - Increase disk storage
 - Hire a private company that offers a physical appropriate space to hold the servers
 - Upgrade Intel/AMD processor version
-- Hire a cloud service as Amazon Web Service , Microsoft Azure, Google Platform Cloud
+- Hire a cloud service as Amazon Web Service, Microsoft Azure, Google Platform Cloud
+- Hire a private cloud storage so that it can be used to save non-confidential documents or files
+- Add new servers if it were necessary 
