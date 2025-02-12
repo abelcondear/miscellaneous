@@ -10,15 +10,16 @@ and you need to make a quick task on the server side.
 
 ## Additional usage 
 
-A microservice generally provides a source of data. Anyway, you could use it for other purposes like:
+A microservice generally provides a data source. Anyway, you could use it for other purposes like:
 
-- A middle layer which decides to call another specific microservice among other ones. This could be useful if you don't want to put all together into single microservice.
+- A layer which decides to call another specific microservice among other ones. This could be useful if you don't want to put all together into a single microservice.
 
-- Calling an application which was developed into a different technology such as C++, Ruby, Java, Go, so on. Then, your microservice gets either the output or result from the application execution.
+- Calling an application which was built up into a different technology such as C++, Ruby, Java, Go, so on. Then, your microservice gets either the output or result from the application execution.
 
-- Being used like a key to open or close a gate to another software program like:
+- Being used like a key to open/close a gate to another program like:
   - software architecture
   - software system
   - security system
+  - scheduled process
+  - automatic process
   - etc.
-
