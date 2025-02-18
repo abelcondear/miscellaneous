@@ -2,7 +2,7 @@
 
 **How do you set the maximum number of login attempts?**
 
-Instead of setting an maximum amount of attempts to hack the system login, I would try to attempt 10 times and I would see what happens then. Afterwards, I would try to attempt 50 times, then 100 times manually or automatically. I would make use of this type of strategy to set a maximum amount of attempts approximately.
+Instead of setting a maximum amount of attempts to hack the system login, I would try to attempt 10 times and I would see what happens then. Afterwards, I would try to attempt 50 times, then 100 times manually or automatically. I would make use of this type of strategy to set a maximum amount of attempts approximately.
 
 **How long do you estimate the maximum number of login attempts? Could you set an interval time for either reviewing or estimating this number?**
 
