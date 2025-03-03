@@ -18,6 +18,6 @@ We could ensure the solution delivered confirming the next assumptions:
 
 - We created and shared documentation about the corrections we made before and communicated this in a technical and non-technical language.
 
-- We made a presentation and show all the main features so that the end user know how to use them more properly.
+- We made a presentation and showed all the main features so that the end user know how to use them more properly.
 
 
