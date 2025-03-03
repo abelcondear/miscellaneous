@@ -8,7 +8,7 @@
 
 - We can use AI technologies to find some pattern inside the data we are using and we could get from it, what we are specifically looking for.
 
-**What was your role, what tools or frameworks did you use, and how did you ensure the solution delivered measurable value to the end user?**
+**How did you ensure the solution delivered measurable value to the end user?**
 
 We could ensure the solution delivered confirming the next assumptions:
 
