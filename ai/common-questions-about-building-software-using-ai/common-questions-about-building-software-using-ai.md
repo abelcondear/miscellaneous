@@ -10,7 +10,7 @@
 
 **What was your role, what tools or frameworks did you use, and how did you ensure the solution delivered measurable value to the end user?**
 
-- We could ensure the solution delivered confirming the next assumptions:
+We could ensure the solution delivered confirming the next assumptions:
 
 - We reviewed the software development several times before it could be delivered.
 
@@ -19,3 +19,5 @@
 - We created and shared documentation about the corrections we made before and communicated this in a technical and non-technical language.
 
 - We made a presentation and show all the main features so that the end user know how to use them more properly.
+
+
