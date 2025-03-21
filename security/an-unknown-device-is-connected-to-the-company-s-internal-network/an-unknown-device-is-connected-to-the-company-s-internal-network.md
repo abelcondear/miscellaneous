@@ -11,5 +11,5 @@ We would start an investigation, taking into account the following assumptions.
     - In case it does not, then we can suspect and investigate about that device, where it came from. 
 - Review if there is any process or service that starts or stops running. We could identify that process/service using command lines such as Bash Scripting or Windows Batch Scripting. We can get a list of all the processes/services which are running in the operating system background.
 - Review the current polices that the company is using to see if that devices belongs to the list of allowed devices by the company.
-    - In case it does, then we can continue with the steps mentions previously.
-    - In case it does not, then we can investigate why that specific device was used when at first it should not be use by policy company.
+    - In case it does, then we can continue with the steps mentioned previously.
+    - In case it does not, then we can investigate why that specific device was used when actually it should not be used by policy company.
